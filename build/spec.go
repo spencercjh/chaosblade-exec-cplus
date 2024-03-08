@@ -20,8 +20,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/chaosblade-io/chaosblade-spec-go/spec"
-	"github.com/chaosblade-io/chaosblade-spec-go/util"
+	"github.com/spencercjh/chaosblade-spec-go/spec"
+	"github.com/spencercjh/chaosblade-spec-go/util"
 
 	"github.com/chaosblade-io/chaosblade-exec-cplus/module"
 )

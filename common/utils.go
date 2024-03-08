@@ -23,7 +23,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/chaosblade-io/chaosblade-spec-go/util"
+	"github.com/spencercjh/chaosblade-spec-go/util"
 )
 
 var proPath string

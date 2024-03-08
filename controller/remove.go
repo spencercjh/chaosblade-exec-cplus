@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/chaosblade-io/chaosblade-spec-go/channel"
+	"github.com/spencercjh/chaosblade-spec-go/channel"
 )
 
 const RemoveName = "remove"

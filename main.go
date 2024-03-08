@@ -26,7 +26,7 @@ import (
 	"path"
 	"time"
 
-	"github.com/chaosblade-io/chaosblade-spec-go/channel"
+	"github.com/spencercjh/chaosblade-spec-go/channel"
 
 	"github.com/chaosblade-io/chaosblade-exec-cplus/common"
 	"github.com/chaosblade-io/chaosblade-exec-cplus/controller"
